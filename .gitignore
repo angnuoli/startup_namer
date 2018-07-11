@@ -1,0 +1,23 @@
+.DS_Store
+.dart_tool/
+
+.packages
+.pub/
+
+build/
+
+.flutter-plugins
+
+# Intellij
+*.iml
+.idea/
+
+# Built application files
+*.apk
+*.ap_
+
+# Java class files
+*.class
+
+# Gradle files
+.gradle
